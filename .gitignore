@@ -1,3 +1,4 @@
-Documents/*
+Documents/**
+!Documents/
 chroma_db
 .ipynb_checkpoints
