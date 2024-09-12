@@ -1,4 +1,4 @@
-Documents/**
-!Documents/
+Documents/*
+!Documents/.gitkeep
 chroma_db
 .ipynb_checkpoints
