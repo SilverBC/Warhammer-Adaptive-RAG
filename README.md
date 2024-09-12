@@ -5,7 +5,7 @@
 
 
 
-Warhammer including it's 40 years worth of lore is a very large IP that can be overwhelming for newcomers to get into due to the sheer size of it's universe. It's TableTop game has an especially big learning curve, given that there are thousands of pages of rules and guidebooks, with dozens of factions each with their specific niches. This project aims to make the learning curve more manageable by offering a chatbot capable of answering questions regarding the game. Secondary aim of this project is to help the veteran players to get answers without having to scour the documents or alternatively scour the web. 
+Warhammer including its 40 years worth of lore is a very large IP that can be overwhelming for newcomers to get into due to the sheer size of its universe. Its TableTop game has an especially big learning curve, given that there are thousands of pages of rules and guidebooks, with dozens of factions each with their specific niches. This project aims to make the learning curve more manageable by offering a chatbot capable of answering questions regarding the game. Secondary aim of this project is to help the veteran players to get answers without having to scour the documents or alternatively scour the web. 
 
 
 ## Technical Overview
