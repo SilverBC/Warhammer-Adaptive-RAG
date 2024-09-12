@@ -12,16 +12,16 @@ Warhammer including it's 40 years worth of lore is a very large IP that can be o
 The project contains two main parts:
 
 1) Pre-Processing-1.ipynb -> contains code for pre-processing the complex .pdf documents found on GamesWorkshop official page, here: [Rules Downloads](https://www.warhammer-community.com/warhammer-40000-downloads/)
-<div style="text-align: center;">
-    <img src="images\graph_2.png" alt="Alt text" style="width:48%; margin: 0 auto;"/>
-</div>
+
+<p align="center">
+    <img src="images\graph_2.png" alt="RAG Graph" style="width:48%;"/>
+</p>
 
 2) Warhammer-Tabletop-RAG-2.ipynb -> contains the code implementing state graph for answering queries, including both web search and vectorstore retrieval. The code is based on this paper: [paper](https://arxiv.org/abs/2403.14403)
 
-
-<div style="text-align: center;">
-    <img src="images\graph_2.png" alt="Alt text" style="width:48%; margin: 0 auto;"/>
-</div>
+<p align="center">
+    <img src="images\graph_2.png" alt="RAG Graph" style="width:48%;"/>
+</p>
 
 
 ## The results
