@@ -11,7 +11,7 @@ Warhammer including its 40 years worth of lore is a very large IP that can be ov
 ## Technical Overview
 The project contains two main parts:
 
-1) Pre-Processing-1.ipynb -> contains code for pre-processing the complex .pdf documents found on GamesWorkshop official page, here: [Rules Downloads](https://www.warhammer-community.com/warhammer-40000-downloads/)
+1) Pre-Processing-1.ipynb -> contains code for pre-processing complex .pdf documents into easy to work with markdown files. All of the .pdf files used can be found on GamesWorkshop official page, here: [Rules Downloads](https://www.warhammer-community.com/warhammer-40000-downloads/)
 
 <p align="center">
     <img src="images\graph_1.png" alt="RAG Graph" style="width:48%;"/>
