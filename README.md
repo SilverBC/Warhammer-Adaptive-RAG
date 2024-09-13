@@ -14,7 +14,7 @@ The project contains two main parts:
 1) Pre-Processing-1.ipynb -> contains code for pre-processing the complex .pdf documents found on GamesWorkshop official page, here: [Rules Downloads](https://www.warhammer-community.com/warhammer-40000-downloads/)
 
 <p align="center">
-    <img src="images\graph_2.png" alt="RAG Graph" style="width:48%;"/>
+    <img src="images\graph_1.png" alt="RAG Graph" style="width:48%;"/>
 </p>
 
 2) Warhammer-Tabletop-RAG-2.ipynb -> contains the code implementing state graph for answering queries, including both web search and vectorstore retrieval. The code is based on this paper: [paper](https://arxiv.org/abs/2403.14403)
